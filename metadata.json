@@ -1,0 +1,6 @@
+{
+  "name": "Student Task Manager",
+  "description": "Tutorial 2 Full Stack Web Development - Unit 2 React & JavaScript interactive task management app with routing and local state.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
